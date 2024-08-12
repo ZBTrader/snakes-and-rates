@@ -1,3 +1,21 @@
+
+
+
+
+Hey mate this is murat. I came across your work on github https://github.com/cleeclee123/sell-side-research-public/tree/main/bofa/reports. 
+As you probably know it is blocked by github. I was wondering If you are able to pull out other researches from BofA research papers?
+I am really interested. Can you message me on Discord: necatimuratyesil
+
+
+
+
+
+
+
+
+
+
+
 from datetime import datetime
 from typing import Optional
 
